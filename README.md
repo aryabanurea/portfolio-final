@@ -23,7 +23,13 @@ This project was built using the following technologies.
 
 Clone down this repository. You will need `git` installed globally on your machine.
 
-## 🛠 Setup Instructions
+# Portfolio Website
 
-Run this command to clone the repository: 
+## Live Demo
+**Website URL:** portfolio-final-production.up.railway.app
+
+## Deployment
+- **Platform:** Railway
+- **Auto-deploy:** On every push to main branch
+- **Status:** Live 
 
